@@ -37,7 +37,7 @@
     "news-items": [
       {
         "id": 1,
-        "thumbnail": "Example thumbnail",
+        "thumbnail": "https://images.app.goo.gl/ajLTVbM59XbfDqAM8",
         "info": "This is the first news item for testing",
         "posted_on": "14-05-2024",
         "category": "sports",

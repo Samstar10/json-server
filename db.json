@@ -39,6 +39,7 @@
         "id": 1,
         "title": "Test Article",
         "thumbnail": "https://picsum.photos/200/300",
+        "description": "Preview description",
         "info": "This is the first news item for testing",
         "posted_on": "14-05-2024",
         "category": "sports",

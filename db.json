@@ -33,5 +33,22 @@
             "petsAllowed": false,
             "organizer": "Carey Wales"
           }
+    ],
+    "news-item": [
+      {
+        "id": 1,
+        "thumbnail": "Example thumbnail",
+        "info": "This is the first news item for testing",
+        "posted_on": "14-05-2024",
+        "category": "sports",
+        "likes": 10,
+        "comments": [
+          {
+            "id": 1,
+            "user": "Admin",
+            "content": "Nice piece, Keep it up!"
+          }
+        ]
+      }
     ]
 }

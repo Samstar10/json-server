@@ -1,134 +1,144 @@
 {
-    "events": [
+  "events": [
+    {
+      "id": "5928101",
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": "4582797",
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": "8419988",
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:30",
+      "petsAllowed": false,
+      "organizer": "Carey Wales"
+    }
+  ],
+  "news-items": [
+    {
+      "id": "1",
+      "title": "Test Article",
+      "thumbnail": "https://picsum.photos/200/300",
+      "description": "Preview description",
+      "info": "This is the first news item for testing",
+      "posted_on": "14-05-2024",
+      "category": "sports",
+      "likes": 10,
+      "comments": [
         {
-            "id": 5928101,
-            "category": "animal welfare",
-            "title": "Cat Adoption Day",
-            "description": "Find your new feline friend at this event.",
-            "location": "Meow Town",
-            "date": "January 28, 2022",
-            "time": "12:00",
-            "petsAllowed": true,
-            "organizer": "Kat Laydee"
-          },
-          {
-            "id": 4582797,
-            "category": "food",
-            "title": "Community Gardening",
-            "description": "Join us as we tend to the community edible plants.",
-            "location": "Flora City",
-            "date": "March 14, 2022",
-            "time": "10:00",
-            "petsAllowed": true,
-            "organizer": "Fern Pollin"
-          },
-          {
-            "id": 8419988,
-            "category": "sustainability",
-            "title": "Beach Cleanup",
-            "description": "Help pick up trash along the shore.",
-            "location": "Playa Del Carmen",
-            "date": "July 22, 2022",
-            "time": "11:30",
-            "petsAllowed": false,
-            "organizer": "Carey Wales"
-          }
-    ],
-    "news-items": [
-      {
-        "id": 1,
-        "title": "Test Article",
-        "thumbnail": "https://picsum.photos/200/300",
-        "description": "Preview description",
-        "info": "This is the first news item for testing",
-        "posted_on": "14-05-2024",
-        "category": "sports",
-        "likes": 10,
-        "comments": [
-          {
-            "id": 1,
-            "user": "Admin",
-            "content": "Nice piece, Keep it up!"
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Test Article",
-        "thumbnail": "https://picsum.photos/200/300",
-        "description": "Preview description",
-        "info": "This is the first news item for testing",
-        "posted_on": "14-05-2024",
-        "category": "sports",
-        "likes": 10,
-        "comments": [
-          {
-            "id": 1,
-            "user": "Admin",
-            "content": "Nice piece, Keep it up!"
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Test Article",
-        "thumbnail": "https://picsum.photos/200/300",
-        "description": "Preview description",
-        "info": "This is the first news item for testing",
-        "posted_on": "14-05-2024",
-        "category": "sports",
-        "likes": 10,
-        "comments": [
-          {
-            "id": 1,
-            "user": "Admin",
-            "content": "Nice piece, Keep it up!"
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Test Article",
-        "thumbnail": "https://picsum.photos/200/300",
-        "description": "Preview description",
-        "info": "This is the first news item for testing",
-        "posted_on": "14-05-2024",
-        "category": "sports",
-        "likes": 10,
-        "comments": [
-          {
-            "id": 1,
-            "user": "Admin",
-            "content": "Nice piece, Keep it up!"
-          },
-          {
-            "id": 2,
-            "user": "Admin",
-            "content": "Nice piece, Keep it up!"
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Test Article",
-        "thumbnail": "https://picsum.photos/200/300",
-        "description": "Preview description",
-        "info": "This is the first news item for testing",
-        "posted_on": "14-05-2024",
-        "category": "sports",
-        "likes": 10,
-        "comments": [
-          {
-            "id": 1,
-            "user": "Admin",
-            "content": "Nice piece, Keep it up!"
-          },
-          {
-            "id": 2,
-            "user": "Admin",
-            "content": "Nice piece, Keep it up!"
-          }
-        ]
-      }
-    ]
+          "id": 1,
+          "user": "Admin",
+          "content": "Nice piece, Keep it up!"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Test Article",
+      "thumbnail": "https://picsum.photos/200/306",
+      "description": "Preview description",
+      "info": "This is the first news item for testing",
+      "posted_on": "14-05-2024",
+      "category": "sports",
+      "likes": 10,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Admin",
+          "content": "Nice piece, Keep it up!"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Test Article",
+      "thumbnail": "https://picsum.photos/200/301",
+      "description": "Preview description",
+      "info": "This is the first news item for testing",
+      "posted_on": "14-05-2024",
+      "category": "sports",
+      "likes": 10,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Admin",
+          "content": "Nice piece, Keep it up!"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Test Article",
+      "thumbnail": "https://picsum.photos/200/302",
+      "description": "Preview description",
+      "info": "This is the first news item for testing",
+      "posted_on": "14-05-2024",
+      "category": "sports",
+      "likes": 10,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Admin",
+          "content": "Nice piece, Keep it up!"
+        },
+        {
+          "id": 2,
+          "user": "Admin",
+          "content": "Nice piece, Keep it up!"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Test Article",
+      "thumbnail": "https://picsum.photos/200/304",
+      "description": "Preview description",
+      "info": "This is the first news item for testing",
+      "posted_on": "14-05-2024",
+      "category": "sports",
+      "likes": 10,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Admin",
+          "content": "Nice piece, Keep it up!"
+        },
+        {
+          "id": 2,
+          "user": "Admin",
+          "content": "Nice piece, Keep it up!"
+        }
+      ]
+    },
+    {
+      "id": "a449",
+      "title": "Anada Banger!",
+      "thumbnail": "https://picsum.photos/200/314",
+      "category": "gossip",
+      "description": "Ikibamba sana wapi nduruu!",
+      "posted_on": "Thu May 16 2024",
+      "likes": 0,
+      "comments": []
+    }
+  ]
 }
